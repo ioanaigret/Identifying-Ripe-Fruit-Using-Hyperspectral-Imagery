@@ -27,3 +27,11 @@ For this project, Python programming language was used, including Spectral Pytho
 images loading, visualisation and for the execution of principal component analysis, whilst Matplotlib 
 was used for graphs display. Tensorflow and Keras were employed for the learning algorithm and 
 classification part of the project and OpenCV was chosen for importing and displaying the RGB images.
+
+#### Hyperspectral image of avocado classified as "unripe"
+
+![hsi_img_avoacado](https://user-images.githubusercontent.com/122640467/212420487-b1ffa17b-29f3-4d3b-9f3b-b3bbec5c0f40.png)
+
+#### RGB image of avocado classified as "unripe"
+
+![rgb_img_avocado](https://user-images.githubusercontent.com/122640467/212420533-21122d10-499c-47f6-94de-b22820b4071f.png)
